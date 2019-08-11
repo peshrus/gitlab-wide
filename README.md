@@ -15,7 +15,7 @@ Website: [stylus](http://add0n.com/stylus.html)
 #### Other
 * Safari: http://code.grid.in.th/
 
-Then, copy-paste the styles from `gitlab-wide.css` into a new userstyle. Be sure to specify that it apply to sites matching your GitLab installation URL (e.g. `https://gitlab.com*`).
+Then, copy-paste the styles from `gitlab-wide.css` into a new userstyle. Be sure to specify that it apply to sites matching your GitLab installation URL (e.g. `https://gitlab.com/*`).
 
 #### Userstyles.org
 
