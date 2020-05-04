@@ -1,6 +1,6 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document regexp(".*git(^hub)?.*") {
+@-moz-document domain("gitlab.com") {
     .fixed-width-container,
     .fixed-width-container *,
     .limit-container-width,
